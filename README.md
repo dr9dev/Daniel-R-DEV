@@ -2,30 +2,32 @@
 
 # ⚡ DR9 DEV ⚡
 
-### Automação • Inteligência Artificial • Desenvolvimento de Software
+### 🚀 Automação • IA • Linux • Open Source
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Transformando+ideias+em+soluções;Automação+de+Processos;Bots+e+Integrações;Linux+e+Open+Source;Desenvolvimento+de+Software;DR9+DEV" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+DR9+DEV;Automação+Inteligente;Bots+e+Integrações;Linux+e+Open+Source;Projetos+Reais+e+Produtividade;Transformando+Ideias+em+Código" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITANTES&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=VISITANTES&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 Sobre
+## 🚀 Sobre Mim
 
-Desenvolvedor apaixonado por automação, inteligência artificial, Linux e criação de soluções que economizam tempo e aumentam produtividade.
+Desenvolvedor focado em automação, inteligência artificial, Linux, APIs e produtividade.
 
-Atualmente desenvolvendo projetos focados em:
+Crio soluções para eliminar tarefas repetitivas, integrar sistemas e acelerar resultados através da tecnologia.
+
+### Áreas de atuação
 
 - 🤖 Inteligência Artificial
 - ⚡ Automação de Processos
-- 🐧 Linux e Open Source
 - 🔗 Integração com APIs
+- 🐧 Linux
 - 📊 Análise de Dados
-- 🚀 Desenvolvimento Full Stack
+- 💻 Desenvolvimento de Software
 
 ---
 
@@ -33,7 +35,7 @@ Atualmente desenvolvendo projetos focados em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,linux,docker,git,mysql,bash,vscode,github,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,linux,docker,git,github,mysql,bash,vscode" />
 
 </div>
 
@@ -46,10 +48,10 @@ Atualmente desenvolvendo projetos focados em:
 | Projeto | Descrição |
 |----------|----------|
 | 🤖 WhatsApp Bot | Automação inteligente e integração com APIs |
-| 📂 Organizador Inteligente | Organização automática de downloads com notificações |
-| 🚀 Arsenal Digital | Ferramentas para produtividade e automação |
-| 🐧 Linux Tools | Scripts e utilitários para ambiente Linux |
-| ⚡ DR9 Labs | Projetos experimentais e soluções inovadoras |
+| 📂 Organizador Inteligente | Organização automática de downloads |
+| 🚀 Arsenal Digital | Ferramentas para produtividade |
+| 🐧 Linux Tools | Scripts para administração Linux |
+| ⚡ DR9 Labs | Projetos experimentais e inovação |
 
 </div>
 
@@ -59,15 +61,17 @@ Atualmente desenvolvendo projetos focados em:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=00000000"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&hide_border=true&background=00000000"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO_GITHUB&hide_border=true&background=00000000"/>
 
 </div>
 
@@ -77,7 +81,17 @@ Atualmente desenvolvendo projetos focados em:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=algolia&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -87,24 +101,16 @@ Atualmente desenvolvendo projetos focados em:
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://www.linkedin.com/in/daniel-romeiro-9bb747418/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="SEU_GITHUB">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://www.youtube.com/@DevDR9">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="55"/>
 </a>
 
-<a href="SEU_YOUTUBE">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="50"/>
-</a>
-
-<a href="SEU_TIKTOK">
-<img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50"/>
-</a>
-
-<a href="SEU_SITE">
-<img src="https://cdn.simpleicons.org/googlechrome" width="50"/>
+<a href="https://www.instagram.com/dr9.dev/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55"/>
 </a>
 
 </div>
@@ -113,8 +119,26 @@ Atualmente desenvolvendo projetos focados em:
 
 <div align="center">
 
-### 🌎 Conectando código, automação e inovação
+<a href="https://www.linkedin.com/in/daniel-romeiro-9bb747418/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Code • Automate • Evolve
+<a href="https://www.youtube.com/@DevDR9">
+<img src="https://img.shields.io/badge/YouTube-DR9_DEV-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/dr9.dev/">
+<img src="https://img.shields.io/badge/Instagram-@dr9.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌎 Construindo soluções através de código, automação e inteligência artificial
+
+### Code • Automate • Evolve
 
 </div>
