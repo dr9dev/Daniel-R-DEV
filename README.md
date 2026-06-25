@@ -30,19 +30,21 @@ Transformando tarefas repetitivas em soluções inteligentes.
 
 ## 💻 Sobre Mim
 
+<div align="center">
+
 Desenvolvedor focado em automação, inteligência artificial, Linux, APIs e produtividade.
 
 Crio ferramentas que simplificam processos, economizam tempo e transformam ideias em soluções reais.
 
+</div>
+
 ### 🎯 Especialidades
 
-* 🤖 Inteligência Artificial
-* ⚡ Automação de Processos
-* 🔗 Integração com APIs
-* 🐧 Linux
-* 📊 Análise de Dados
-* 💻 Desenvolvimento de Software
-* 🚀 Open Source
+<div align="center">
+
+🤖 Inteligência Artificial • ⚡ Automação de Processos • 🔗 Integração com APIs • 🐧 Linux • 📊 Análise de Dados • 💻 Desenvolvimento de Software • 🚀 Open Source
+
+</div>
 
 ---
 
@@ -58,13 +60,17 @@ Crio ferramentas que simplificam processos, economizam tempo e transformam ideia
 
 ## 🚀 Projetos em Destaque
 
-| Projeto                    | Descrição                                   |
-| -------------------------- | ------------------------------------------- |
-| 🤖 WhatsApp Bot            | Automação inteligente e integração com APIs |
-| 📂 Organizador Inteligente | Organização automática de downloads         |
-| 🚀 Arsenal Digital         | Ferramentas para produtividade              |
-| 🐧 Linux Tools             | Scripts e utilitários Linux                 |
-| ⚡ DR9 Labs                 | Projetos experimentais e inovação           |
+<div align="center">
+
+|    | Projeto                    | Descrição                                   |
+|---- | -------------------------- | ------------------------------------------- |
+| 🤖 | [WhatsApp Bot](https://github.com/dr9dev)            | Automação inteligente e integração com APIs |
+| 📂 | [Organizador Inteligente](https://github.com/dr9dev) | Organização automática de downloads       |
+| 🚀 | [Arsenal Digital](https://github.com/dr9dev)         | Ferramentas para produtividade              |
+| 🐧 | [Linux Tools](https://github.com/dr9dev)             | Scripts e utilitários Linux                 |
+| ⚡ | [DR9 Labs](https://github.com/dr9dev)                 | Projetos experimentais e inovação           |
+
+</div>
 
 ---
 
@@ -84,7 +90,7 @@ Crio ferramentas que simplificam processos, economizam tempo e transformam ideia
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dr9dev&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dr9dev&theme=tokyonight&no-frame=true&row=2&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -116,11 +122,11 @@ Crio ferramentas que simplificam processos, economizam tempo e transformam ideia
 
 ## 📚 Atualmente
 
-* 🔥 Inteligência Artificial
-* ⚡ Automação Avançada
-* 🐧 Linux e Infraestrutura
-* 🚀 Desenvolvimento Full Stack
-* 🔗 APIs e Integrações
+<div align="center">
+
+🔥 Inteligência Artificial • ⚡ Automação Avançada • 🐧 Linux e Infraestrutura • 🚀 Desenvolvimento Full Stack • 🔗 APIs e Integrações
+
+</div>
 
 ---
 
