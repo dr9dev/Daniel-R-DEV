@@ -77,7 +77,7 @@ Crio ferramentas que simplificam processos, economizam tempo e transformam ideia
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dr9dev&theme=algolia&no-frame=true&column=4&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dr9dev&theme=algolia&no-frame=true&column=4&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
@@ -85,7 +85,7 @@ Crio ferramentas que simplificam processos, economizam tempo e transformam ideia
 ## 🐍 Atividade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dr9dev/dr9dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/dr9dev/Daniel-R-DEV/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
